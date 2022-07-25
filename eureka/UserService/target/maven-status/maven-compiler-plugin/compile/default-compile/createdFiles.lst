@@ -1,0 +1,3 @@
+com\example\UserServiceApplication.class
+com\example\UserService\Repository\UserRepository.class
+com\example\model\User.class
